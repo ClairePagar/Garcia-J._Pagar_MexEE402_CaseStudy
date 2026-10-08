@@ -8,31 +8,11 @@
 ---
 
 ## **Members**
+| **Name** | **Student Number** | **Section** |
+|---|---|---|
+| GARCIA, JHADE KIMBERLY A.| 23-03063 | MEXE - 4101 |
+| PAGAR, CLAIRE ALLEN A. | 23-06741 | MEXE - 4101 |
 
-
-## **Members**
-
-<table>
-  <thead>
-    <tr>
-      <th align="center">Name</th>
-      <th align="center">Student Number</th>
-      <th align="center">Section</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">GARCIA, JHADE KIMBERLY A.</td>
-      <td align="center">23-03063</td>
-      <td align="center">MEXE-4101</td>
-    </tr>
-    <tr>
-      <td align="center">PAGAR, CLAIRE ALLEN A.</td>
-      <td align="center">23-06741</td>
-      <td align="center">MEXE-4101</td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 
