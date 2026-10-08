@@ -1,45 +1,96 @@
-# MexEE 402: Data Preprocessing Case Study
 
-MexEE Elective 2: Data Science and Machine Learning
-Batangas State University, Alangilan Campus
-1st Semester, AY 2026-2027
+# **MexEE 402: Data Preprocessing Case Study**
 
-## Members
+*MexEE Elective 2: Data Science and Machine Learning*  
+**Batangas State University, Alangilan Campus**  
+*1st Semester, AY 2026–2027*
 
-| Name | Student Number | Section |
+---
+
+## **Members**
+
+| **Name** | **Student Number** | **Section** |
 |---|---|---|
 | Surname, First Name | | |
 | Surname, First Name | | |
 
-## Notebook links
+---
 
-| Chapter | Member 1 | Member 2 |
+## **Notebook Links**
+
+| **Chapter** | **Member 1: Jhade** | **Member 2: Claire** |
 |---|---|---|
-| Ch1_2_3 | [link]() | [link]() |
-| Ch4 | [link]() | [link]() |
-| Ch5 | [link]() | [link]() |
-| Ch6 | [link]() | [link]() |
-| Ch7 | [link]() | [link]() |
-| Ch8 | [link]() | [link]() |
-| Ch9 | [link]() | [link]() |
+| **Ch1_2_3** | [Open Notebook](PASTE_JHADE_CH1_2_3_LINK_HERE) | [Open Notebook](PASTE_CLAIRE_CH1_2_3_LINK_HERE) |
+| **Ch4** | [Open Notebook](PASTE_JHADE_CH4_LINK_HERE) | [Open Notebook](PASTE_CLAIRE_CH4_LINK_HERE) |
+| **Ch5** | [Open Notebook](PASTE_JHADE_CH5_LINK_HERE) | [Open Notebook](PASTE_CLAIRE_CH5_LINK_HERE) |
+| **Ch6** | [Open Notebook](PASTE_JHADE_CH6_LINK_HERE) | [Open Notebook](PASTE_CLAIRE_CH6_LINK_HERE) |
+| **Ch7** | [Open Notebook](PASTE_JHADE_CH7_LINK_HERE) | [Open Notebook](PASTE_CLAIRE_CH7_LINK_HERE) |
+| **Ch8** | [Open Notebook](PASTE_JHADE_CH8_LINK_HERE) | [Open Notebook](PASTE_CLAIRE_CH8_LINK_HERE) |
+| **Ch9** | [Open Notebook](PASTE_JHADE_CH9_LINK_HERE) | [Open Notebook](PASTE_CLAIRE_CH9_LINK_HERE) |
 
-## What we learned
+---
 
-One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
-you and what surprised you. Not what the library does, but what you understood.
+## **What We Learned**
 
-## Errors we found
+*Write one short paragraph per chapter, from Ch1_2_3 to Ch9. Explain what the chapter taught you, what you understood, and what surprised you. Focus on your own learning and understanding, not just on what the library does.*
 
-List any mistake you found in the original notebooks, and the correct version.
-There are real ones in there. Finding them earns points.
+### **Chapter 1–2–3: [Chapter Title]**
 
-## Note on AI tools
+*Write your reflection here.*
 
-Say whether you used an AI tool, and what for. This is not a penalty.
-Hiding it is.
+### **Chapter 4: [Chapter Title]**
 
-## References
+*Write your reflection here.*
 
-McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
-VanderPlas, J. Python Data Science Handbook.
-Any other page or article you used.
+### **Chapter 5: [Chapter Title]**
+
+*Write your reflection here.*
+
+### **Chapter 6: [Chapter Title]**
+
+*Write your reflection here.*
+
+### **Chapter 7: [Chapter Title]**
+
+*Write your reflection here.*
+
+### **Chapter 8: Constructing a Preprocessing Pipeline**
+
+*Write your reflection here.*
+
+### **Chapter 9: [Chapter Title]**
+
+*Write your reflection here.*
+
+---
+
+## **Errors We Found**
+
+*List any mistakes found in the original notebooks and provide the corresponding corrections. Finding actual errors earns points.*
+
+For each error, include the following details:
+
+1. **Chapter:** Identify the chapter where the error was found.
+2. **Original Version:** Show the incorrect code, statement, or explanation.
+3. **Correct Version:** Provide the corrected code, statement, or explanation.
+4. **Explanation:** Briefly explain why the original version was incorrect and why the correction is appropriate.
+
+*Do not invent errors. Include only mistakes that you actually found and verified.*
+
+---
+
+## **Note on AI Tools**
+
+*State whether an AI tool was used and explain what it was used for. AI use is not a penalty, but it must be disclosed honestly.*
+
+**Example:**
+
+An AI tool was used to help clarify selected concepts, organize explanations, and understand error messages. The code and corrections were reviewed and checked against the original notebooks.
+
+---
+
+## **References**
+
+- McKinney, W. (2021). *Python for Data Analysis* (3rd ed.). O'Reilly.
+- VanderPlas, J. *Python Data Science Handbook.*
+- *Include any other websites, articles, or learning resources used in completing the case study.*
