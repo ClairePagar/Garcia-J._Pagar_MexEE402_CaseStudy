@@ -127,9 +127,24 @@ Another thing I noticed is that the Filter Method output includes final grade wi
 
 ## **Note on AI Tools**
 
-AI tools were used to assist with understanding selected concepts, clarifying code explanations, and interpreting error messages encountered during the case study. The notebook code, identified errors, and proposed corrections were reviewed against the original materials. AI assistance was used as a supplementary learning tool and not as a replacement for understanding and verifying the work.
+# AI Notes of Claire for Chapters 6–9
 
-*Edit this statement to accurately reflect the AI tools actually used and the tasks they assisted with.*
+## Chapter 6: Outlier Detection and Treatment
+
+I used an AI tool to understand the different strategies for handling outliers after identifying them, particularly Capping and Flooring and Removing Outliers. I also used AI to understand the difference between the results of the Z-score and IQR methods in the example.
+
+## Chapter 7: Feature Selection Using RFECV
+
+I used an AI tool to help me identify and understand the error caused by `cv=5` in the `RFECV` code. I also asked AI about the difference between uppercase `X` and lowercase `y` because I initially thought that `X` should also be lowercase. Through this, I learned that `X` represents the input features, while `y` represents the target variable in machine learning.
+
+## Chapter 8:
+
+(To be added)
+
+## Chapter 9:
+
+(To be added)
+
 ---
 
 ## **References**
