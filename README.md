@@ -11,25 +11,22 @@
 
 | **Name** | **Student Number** | **Section** |
 |---|---|---|
-| Surname, First Name | | |
-| Surname, First Name | | |
+| GARCIA, JHADE KIMBERLY A.| 23-03063 | MEXE- 4101 |
+| PAGAR, CLAIRE ALLEN A. | 23-06741 | MEXE- 4101 |
 
 ---
 
 ## **Notebook Links**
 
-
-## **Notebook Links**
-
 | **Chapter** | **Assigned Member** | **Notebook Link** |
 |---|---|---|
-| **Ch1_2_3** | Jhade | [Open Notebook](PASTE_JHADE_CH1_2_3_LINK_HERE) |
-| **Ch4** | Jhade | [Open Notebook](PASTE_JHADE_CH4_LINK_HERE) |
-| **Ch5** | Jhade | [Open Notebook](PASTE_JHADE_CH5_LINK_HERE) |
-| **Ch6** | Claire | [Open Notebook](PASTE_CLAIRE_CH6_LINK_HERE) |
-| **Ch7** | Claire | [Open Notebook](PASTE_CLAIRE_CH7_LINK_HERE) |
-| **Ch8** | Claire | [Open Notebook](PASTE_CLAIRE_CH8_LINK_HERE) |
-| **Ch9** | Claire | [Open Notebook](PASTE_CLAIRE_CH9_LINK_HERE) |
+| **Ch1_2_3** | Garcia J. | [Open Notebook](PASTE_JHADE_CH1_2_3_LINK_HERE) |
+| **Ch4** | Garcia J. | [Open Notebook](PASTE_JHADE_CH4_LINK_HERE) |
+| **Ch5** | Garcia J. | [Open Notebook](PASTE_JHADE_CH5_LINK_HERE) |
+| **Ch6** | Pagar | [Open Notebook](PASTE_CLAIRE_CH6_LINK_HERE) |
+| **Ch7** | Pagar | [Open Notebook](PASTE_CLAIRE_CH7_LINK_HERE) |
+| **Ch8** | Pagar | [Open Notebook](PASTE_CLAIRE_CH8_LINK_HERE) |
+| **Ch9** | Pagar | [Open Notebook](PASTE_CLAIRE_CH9_LINK_HERE) |
 
 ---
 
@@ -69,27 +66,64 @@
 
 ## **Errors We Found**
 
-*List any mistakes found in the original notebooks and provide the corresponding corrections. Finding actual errors earns points.*
+*Each chapter was checked for errors in the original notebook. Any identified error is documented below, together with its correction and explanation. If no error was found, this is also indicated.*
 
-For each error, include the following details:
+### **Chapter 1–2–3: [Chapter Title]**
 
-1. **Chapter:** Identify the chapter where the error was found.
-2. **Original Version:** Show the incorrect code, statement, or explanation.
-3. **Correct Version:** Provide the corrected code, statement, or explanation.
-4. **Explanation:** Briefly explain why the original version was incorrect and why the correction is appropriate.
+- **Status:** [Error Found / No Error Found]
+- **Original Version:** [Paste the incorrect code or statement here. Write N/A if no error was found.]
+- **Correct Version:** [Provide the corrected version. Write N/A if no error was found.]
+- **Explanation:** [Explain why the original was incorrect and why the correction is appropriate. If no error was found, write: "No errors were identified after checking the chapter."]
 
-*Do not invent errors. Include only mistakes that you actually found and verified.*
+### **Chapter 4: [Chapter Title]**
+
+- **Status:** [Error Found / No Error Found]
+- **Original Version:** [Incorrect code or statement / N/A]
+- **Correct Version:** [Corrected code or statement / N/A]
+- **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
+
+### **Chapter 5: [Chapter Title]**
+
+- **Status:** [Error Found / No Error Found]
+- **Original Version:** [Incorrect code or statement / N/A]
+- **Correct Version:** [Corrected code or statement / N/A]
+- **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
+
+### **Chapter 6: [Chapter Title]**
+
+- **Status:** [Error Found / No Error Found]
+- **Original Version:** [Incorrect code or statement / N/A]
+- **Correct Version:** [Corrected code or statement / N/A]
+- **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
+
+### **Chapter 7: [Chapter Title]**
+
+- **Status:** [Error Found / No Error Found]
+- **Original Version:** [Incorrect code or statement / N/A]
+- **Correct Version:** [Corrected code or statement / N/A]
+- **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
+
+### **Chapter 8: Constructing a Preprocessing Pipeline**
+
+- **Status:** [Error Found / No Error Found]
+- **Original Version:** [Incorrect code or statement / N/A]
+- **Correct Version:** [Corrected code or statement / N/A]
+- **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
+
+### **Chapter 9: [Chapter Title]**
+
+- **Status:** [Error Found / No Error Found]
+- **Original Version:** [Incorrect code or statement / N/A]
+- **Correct Version:** [Corrected code or statement / N/A]
+- **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
 
 ---
 
 ## **Note on AI Tools**
 
-*State whether an AI tool was used and explain what it was used for. AI use is not a penalty, but it must be disclosed honestly.*
+AI tools were used to assist with understanding selected concepts, clarifying code explanations, and interpreting error messages encountered during the case study. The notebook code, identified errors, and proposed corrections were reviewed against the original materials. AI assistance was used as a supplementary learning tool and not as a replacement for understanding and verifying the work.
 
-**Example:**
-
-An AI tool was used to help clarify selected concepts, organize explanations, and understand error messages. The code and corrections were reviewed and checked against the original notebooks.
-
+*Edit this statement to accurately reflect the AI tools actually used and the tasks they assisted with.*
 ---
 
 ## **References**
