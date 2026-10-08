@@ -130,12 +130,10 @@ Another thing I noticed is that the Filter Method output includes final grade wi
 # AI Notes of Claire for Chapters 6–9
 
 ## Chapter 6: Outlier Detection and Treatment
-
-I used an AI tool to understand the different strategies for handling outliers after identifying them, particularly Capping and Flooring and Removing Outliers. I also used AI to understand the difference between the results of the Z-score and IQR methods in the example.
+I used an AI tool for this chapter because I was not very familiar with what strategy should be used after finding an outlier. I already understood how to find and identify an outlier, but I had limited knowledge about what to do with it afterward, so I asked AI for an explanation of the different strategies, such as Capping and Flooring and Removing Outliers. I also used AI to help me understand the difference between the Z-score and IQR results in this example
 
 ## Chapter 7: Feature Selection Using RFECV
-
-I used an AI tool to help me identify and understand the error caused by `cv=5` in the `RFECV` code. I also asked AI about the difference between uppercase `X` and lowercase `y` because I initially thought that `X` should also be lowercase. Through this, I learned that `X` represents the input features, while `y` represents the target variable in machine learning.
+I used an AI tool in this chapter mainly to help me identify and understand the error caused by cv=5 in the RFECV code. I also asked AI about the use of uppercase X and lowercase y because I initially thought that X should also be lowercase. I learned that this is a common machine learning convention where X represents the input features and y represents the target.
 
 ## Chapter 8:
 
