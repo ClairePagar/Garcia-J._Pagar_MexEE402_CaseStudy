@@ -18,15 +18,18 @@
 
 ## **Notebook Links**
 
-| **Chapter** | **Member 1: Jhade** | **Member 2: Claire** |
+
+## **Notebook Links**
+
+| **Chapter** | **Assigned Member** | **Notebook Link** |
 |---|---|---|
-| **Ch1_2_3** | [Open Notebook](PASTE_JHADE_CH1_2_3_LINK_HERE) | [Open Notebook](PASTE_CLAIRE_CH1_2_3_LINK_HERE) |
-| **Ch4** | [Open Notebook](PASTE_JHADE_CH4_LINK_HERE) | [Open Notebook](PASTE_CLAIRE_CH4_LINK_HERE) |
-| **Ch5** | [Open Notebook](PASTE_JHADE_CH5_LINK_HERE) | [Open Notebook](PASTE_CLAIRE_CH5_LINK_HERE) |
-| **Ch6** | [Open Notebook](PASTE_JHADE_CH6_LINK_HERE) | [Open Notebook](PASTE_CLAIRE_CH6_LINK_HERE) |
-| **Ch7** | [Open Notebook](PASTE_JHADE_CH7_LINK_HERE) | [Open Notebook](PASTE_CLAIRE_CH7_LINK_HERE) |
-| **Ch8** | [Open Notebook](PASTE_JHADE_CH8_LINK_HERE) | [Open Notebook](PASTE_CLAIRE_CH8_LINK_HERE) |
-| **Ch9** | [Open Notebook](PASTE_JHADE_CH9_LINK_HERE) | [Open Notebook](PASTE_CLAIRE_CH9_LINK_HERE) |
+| **Ch1_2_3** | Jhade | [Open Notebook](PASTE_JHADE_CH1_2_3_LINK_HERE) |
+| **Ch4** | Jhade | [Open Notebook](PASTE_JHADE_CH4_LINK_HERE) |
+| **Ch5** | Jhade | [Open Notebook](PASTE_JHADE_CH5_LINK_HERE) |
+| **Ch6** | Claire | [Open Notebook](PASTE_CLAIRE_CH6_LINK_HERE) |
+| **Ch7** | Claire | [Open Notebook](PASTE_CLAIRE_CH7_LINK_HERE) |
+| **Ch8** | Claire | [Open Notebook](PASTE_CLAIRE_CH8_LINK_HERE) |
+| **Ch9** | Claire | [Open Notebook](PASTE_CLAIRE_CH9_LINK_HERE) |
 
 ---
 
