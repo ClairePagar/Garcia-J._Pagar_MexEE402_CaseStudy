@@ -89,19 +89,23 @@
 - **Correct Version:** [Corrected code or statement / N/A]
 - **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
 
-### **Chapter 6: [Chapter Title]**
+### **Chapter 6: OUTLIER DETECTION **
 
-- **Status:** [Error Found / No Error Found]
-- **Original Version:** [Incorrect code or statement / N/A]
-- **Correct Version:** [Corrected code or statement / N/A]
-- **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
+- **Status:** Error Found / No Error Found
+- **Explanation:** One thing I noticed in this chapter is the difference between the Z-score result and the explanation given in the notebook. We talked about an outlier as a value that is far from the majority, and when I looked at the sample data, 100 is clearly far from the other values such as 10, 12, 15, 20, 21, and 22. However, when I ran the Z-score code, no outlier was detected because the Z-score of 100 was only 2.615, which is below the cutoff of 3.
 
-### **Chapter 7: [Chapter Title]**
+At first, I thought that the code should be changed from > 3 to > 2.61 so that 100 would be detected. However, based on what was taught in the notebook, 3 is the standard cutoff for the Z-score method, so I decided not to change the code. The result is possible because the dataset only has 8 values, and the extreme value of 100 affects the mean and standard deviation, which makes its Z-score lower. This also shows why the IQR method can be more useful for this small sample, because it identifies 100 as an outlier without changing the Z-score cutoff.
 
-- **Status:** [Error Found / No Error Found]
-- **Original Version:** [Incorrect code or statement / N/A]
-- **Correct Version:** [Corrected code or statement / N/A]
-- **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
+### **Chapter 7: FEATURE SELECTION **
+
+- **Status:** Error Found
+- **Original Version:** selector = RFECV(estimator, step=1, cv=5)
+- **Correct Version:** selector = RFECV(estimator, step=1, cv=3)
+- **Explanation:** One error I noticed in this chapter is the use of cv=5 in the RFECV code. The dataset only has 7 samples, so using 5-fold cross-validation creates some validation sets with only one sample. This causes the warning UndefinedMetricWarning: R^2 score is not well-defined with less than two samples. To avoid this warning with this small dataset, cv=3 can be used instead of cv=5.
+
+I also noticed the use of uppercase X and lowercase y in the Lasso section. At first, I thought that the uppercase X should be changed to lowercase x, but I learned that this is not an error. In machine learning, X is commonly used for the input features, while y is used for the target or output. Python is also case-sensitive, so X and x are treated as different variables.
+
+Another thing I noticed is that the Filter Method output includes final grade with a correlation of 1.000000. Since final grade is the target that we want to predict, it should not be included as an input feature. The code is useful for showing the correlation, but when selecting actual features for prediction, final grade should be excluded.
 
 ### **Chapter 8: Constructing a Preprocessing Pipeline**
 
