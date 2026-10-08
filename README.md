@@ -89,14 +89,14 @@
 - **Correct Version:** [Corrected code or statement / N/A]
 - **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
 
-### **Chapter 6: OUTLIER DETECTION **
+### **Chapter 6: [OUTLIER DETECTION] **
 
 - **Status:** Error Found / No Error Found
 - **Explanation:** One thing I noticed in this chapter is the difference between the Z-score result and the explanation given in the notebook. We talked about an outlier as a value that is far from the majority, and when I looked at the sample data, 100 is clearly far from the other values such as 10, 12, 15, 20, 21, and 22. However, when I ran the Z-score code, no outlier was detected because the Z-score of 100 was only 2.615, which is below the cutoff of 3.
 
 At first, I thought that the code should be changed from > 3 to > 2.61 so that 100 would be detected. However, based on what was taught in the notebook, 3 is the standard cutoff for the Z-score method, so I decided not to change the code. The result is possible because the dataset only has 8 values, and the extreme value of 100 affects the mean and standard deviation, which makes its Z-score lower. This also shows why the IQR method can be more useful for this small sample, because it identifies 100 as an outlier without changing the Z-score cutoff.
 
-### **Chapter 7: FEATURE SELECTION **
+### **Chapter 7: [FEATURE SELECTION] **
 
 - **Status:** Error Found
 - **Original Version:** selector = RFECV(estimator, step=1, cv=5)
