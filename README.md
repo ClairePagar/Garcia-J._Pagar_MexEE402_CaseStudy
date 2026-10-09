@@ -25,7 +25,7 @@
 | **Ch5** | Garcia J. | [Open Notebook](https://colab.research.google.com/drive/1affjaCfe6tLF4BUhUPYHlt-nA852DIJV?usp=sharing) |
 | **Ch6** | Pagar | [Open Notebook](https://colab.research.google.com/drive/1FUhxr4QARN_1R0Wqj2JhlhrxCpUKh1Lo?usp=sharing) |
 | **Ch7** | Pagar | [Open Notebook](https://colab.research.google.com/drive/1EEU6NN0fbEGgdLhn010h1M2SFB6rXwi4?usp=sharing) |
-| **Ch8** | Pagar | [Open Notebook](PASTE_CLAIRE_CH8_LINK_HERE) |
+| **Ch8** | Pagar | [Open Notebook](https://colab.research.google.com/drive/17RGv2Cymdcb3KlYTrNQU0qM-b7TeY678?usp=sharing) |
 | **Ch9** | Pagar | [Open Notebook](https://colab.research.google.com/drive/1JH20JaN3H_SHar_KOKujbYp4kJicZddH?usp=sharing) |
 
 ---
