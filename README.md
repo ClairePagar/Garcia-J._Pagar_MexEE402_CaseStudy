@@ -48,7 +48,7 @@ In this chapter, we learned about data scaling and normalization which are used 
 
 ### **Chapter 6: Dealing with Outliers **
 
-*Write your reflection here.*
+In this chapter, we found out that outliers are values in a dataset which differ significantly from all the data points. We realized that these values needed to be examined since they might influence the accuracy of the statistical results. What surprised us was that outliers could at times show hidden patterns or offer insights that would not become apparent if the data were looked at as a whole. This caused us to see that analysing data consists of more than looking at the numbers as abnormal/different values can also contribute to a better understanding and interpretation.
 
 ### **Chapter 7: Feature Selection**
 
