@@ -44,7 +44,7 @@ In this chapter, we learned about feature engineering and its basic techniques, 
 
 ### **Chapter 5: Scaling and normalization**
 
-*Write your reflection here.*
+In this chapter, we learned about data scaling and normalization which are used to adjust the range of feature values in a dataset. We understood that features with values can have more influence on some machine learning models so scaling helps make the data more comparable. We also learned that StandardScaler adjusts the data to have a mean of 0 and a standard deviation of 1 while MinMaxScaler transforms values into a range from 0 to 1. What surprised us was that data preprocessing involves more than correcting errors or filling in missing values. We realized that adjusting the scale of features is also an important step in preparing data, for certain machine learning models.
 
 ### **Chapter 6: [Chapter Title]**
 
@@ -141,6 +141,9 @@ One error I found is in Block 16, where titanic_preprocessed[:,2] was used to pl
 ## **Note on AI Tools**
 
 # AI Notes of Pagar for Chapters 6–9
+
+## Chapter 1–2–3: Exploring and cleaning data
+I used AI for the `head()`, `info()`, and `describe()` functions because I thought they would run as is once I typed and executed them. However, an error appeared. Since I was not familiar with these functions, I asked ChatGPT what was missing or incorrect in my input. In the end, I realized that the only thing missing was `df` before each function call.
 
 ## Chapter 6: Outlier Detection and Treatment
 I used an AI tool for this chapter because I was not very familiar with what strategy should be used after finding an outlier. I already understood how to find and identify an outlier, but I had limited knowledge about what to do with it afterward, so I asked AI for an explanation of the different strategies, such as Capping and Flooring and Removing Outliers. I also used AI to help me understand the difference between the Z-score and IQR results in this example
