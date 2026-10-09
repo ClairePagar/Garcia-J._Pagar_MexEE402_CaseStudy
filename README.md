@@ -32,17 +32,17 @@
 
 ## **What We Learned**
 
+
+### **Chapter 1–2–3: Exploring and cleaning data**
+
 In this chapter, we learned how to use Python for data processing, including the initial steps of loading, understanding, and exploring data. We also learned about numerical and categorical data and different methods to clean data like imputation, deletion, and prediction. My partner and I realized that data preprocessing is important because real-world data can be messy or not complete and machine learning models can't work well with data unless it is prepared first. What surprised us was that we thought machine vision could already understand data once it was written because the technology is so advanced. We found out that the data still has to be properly set up, depends on what kind of data it is,  before the system can read and use it properly.
 
-### **Chapter 1–2–3: [Chapter Title]**
+
+### **Chapter 4: Feature Engineering and Encoding**
 
 *Write your reflection here.*
 
-### **Chapter 4: [Chapter Title]**
-
-*Write your reflection here.*
-
-### **Chapter 5: [Chapter Title]**
+### **Chapter 5: Scaling and normalization**
 
 *Write your reflection here.*
 
@@ -82,7 +82,7 @@ In this chapter, we learned how to use Python for data processing, including the
 - **Correct Version:** N/A.
 - **Explanation:** No errors were identified after checking the chapter.
 
-### **Chapter 5: [Scaling and normalization]**
+### **Chapter 5: Scaling and normalization**
 
 - **Status:**  No Error Found
 - **Original Version:**  N/A.
