@@ -32,7 +32,7 @@
 
 ## **What We Learned**
 
-*Write one short paragraph per chapter, from Ch1_2_3 to Ch9. Explain what the chapter taught you, what you understood, and what surprised you. Focus on your own learning and understanding, not just on what the library does.*
+In this chapter, we learned how to use Python for data processing, including the initial steps of loading, understanding, and exploring data. We also learned about numerical and categorical data and different methods to clean data like imputation, deletion, and prediction. My partner and I realized that data preprocessing is important because real-world data can be messy or not complete and machine learning models can't work well with data unless it is prepared first. What surprised us was that we thought machine vision could already understand data once it was written because the technology is so advanced. We found out that the data still has to be properly set up, depends on what kind of data it is,  before the system can read and use it properly.
 
 ### **Chapter 1–2–3: [Chapter Title]**
 
