@@ -140,7 +140,7 @@ One error I found is in Block 16, where titanic_preprocessed[:,2] was used to pl
 
 ## **Note on AI Tools**
 
-# AI Notes of Claire for Chapters 6–9
+# AI Notes of Pagar for Chapters 6–9
 
 ## Chapter 6: Outlier Detection and Treatment
 I used an AI tool for this chapter because I was not very familiar with what strategy should be used after finding an outlier. I already understood how to find and identify an outlier, but I had limited knowledge about what to do with it afterward, so I asked AI for an explanation of the different strategies, such as Capping and Flooring and Removing Outliers. I also used AI to help me understand the difference between the Z-score and IQR results in this example
