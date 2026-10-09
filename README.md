@@ -26,7 +26,7 @@
 | **Ch6** | Pagar | [Open Notebook](https://colab.research.google.com/drive/1FUhxr4QARN_1R0Wqj2JhlhrxCpUKh1Lo?usp=sharing) |
 | **Ch7** | Pagar | [Open Notebook](https://colab.research.google.com/drive/1EEU6NN0fbEGgdLhn010h1M2SFB6rXwi4?usp=sharing) |
 | **Ch8** | Pagar | [Open Notebook](PASTE_CLAIRE_CH8_LINK_HERE) |
-| **Ch9** | Pagar | [Open Notebook](PASTE_CLAIRE_CH9_LINK_HERE) |
+| **Ch9** | Pagar | [Open Notebook](https://colab.research.google.com/drive/1JH20JaN3H_SHar_KOKujbYp4kJicZddH?usp=sharing) |
 
 ---
 
@@ -89,7 +89,7 @@
 - **Correct Version:** [Corrected code or statement / N/A]
 - **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
 
-### Chapter 6: [OUTLIER DETECTION] 
+### Chapter 6: [Dealing with Outliers] 
 
 - **Status:** Error Found / No Error Found
 - **Explanation:**
@@ -97,7 +97,7 @@ One thing I noticed in this chapter is the difference between the Z-score result
 
 At first, I thought that the code should be changed from > 3 to > 2.61 so that 100 would be detected. However, based on what was taught in the notebook, 3 is the standard cutoff for the Z-score method, so I decided not to change the code. The result is possible because the dataset only has 8 values, and the extreme value of 100 affects the mean and standard deviation, which makes its Z-score lower. This also shows why the IQR method can be more useful for this small sample, because it identifies 100 as an outlier without changing the Z-score cutoff.
 
-### Chapter 7: [FEATURE SELECTION] 
+### Chapter 7: [Feature Selection] 
 
 - **Status:** Error Found
 - **Original Version:** selector = RFECV(estimator, step=1, cv=5)
@@ -116,12 +116,25 @@ Another thing I noticed is that the Filter Method output includes final grade wi
 - **Correct Version:** [Corrected code or statement / N/A]
 - **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
 
-### **Chapter 9: [Chapter Title]**
+### Chapter 9: [Real-World Application: Data Preprocessing]
 
-- **Status:** [Error Found / No Error Found]
-- **Original Version:** [Incorrect code or statement / N/A]
-- **Correct Version:** [Corrected code or statement / N/A]
-- **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
+- **Status:** Error Found 
+- **Original Version:** # After discretization
+plt.hist(titanic_preprocessed[:,2], alpha=0.5, label='After discretization')
+plt.legend()
+plt.show()
+- **Correct Version:** # After discretization
+plt.figure(figsize=(8, 5))
+sns.countplot(
+    x=data['Age'],
+    order=['Child', 'Adult', 'Elderly']
+)
+plt.title("Age Distribution After Discretization")
+plt.xlabel("Life Stage")
+plt.ylabel("Count")
+plt.show()
+- **Explanation:**
+One error I found is in Block 16, where titanic_preprocessed[:,2] was used to plot the age distribution after discretization. This is incorrect because column index 2 represents an encoded Embarked category, not the discretized Age column. Also, the age categories were created in data['Age'], while titanic_preprocessed was created before discretization. Therefore, the plot does not correctly show the age distribution after discretization.
 
 ---
 
@@ -140,8 +153,7 @@ I used an AI tool in this chapter mainly to help me identify and understand the 
 (To be added)
 
 ## Chapter 9:
-
-(To be added)
+I used an AI tool to help me identify the possible errors in my code and understand what each result represents. After that, I analyzed the results myself and used my own understanding to answer the chapter questions. This helped me understand the purpose of each preprocessing step and how the visualizations represent the data.
 
 ---
 
