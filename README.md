@@ -52,7 +52,7 @@ In this chapter, we found out that outliers are values in a dataset which differ
 
 ### **Chapter 7: Feature Selection**
 
-*Write your reflection here.*
+In this chapter, we learned that feature selection is a step in machine learning because it helps determine which information is necessary for making predictions. We understood that filter methods evaluate features based on measures, wrapper methods test different combinations of features and embedded methods select features during the model training process. What surprised us is that feature selection can help reduce the time needed to train a model because fewer features may require processing. Through this lesson we realized that choosing the features is important for making the model more efficient and suitable, for its intended purpose.
 
 ### **Chapter 8: Constructing a Preprocessing Pipeline**
 
