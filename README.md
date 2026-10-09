@@ -68,26 +68,26 @@
 
 *Each chapter was checked for errors in the original notebook. Any identified error is documented below, together with its correction and explanation. If no error was found, this is also indicated.*
 
-### **Chapter 1–2–3: [Exploring and cleaning data]**
+### **Chapter 1–2–3: Exploring and cleaning data**
 
-- **Status:** [ No Error Found]
-- **Original Version:** [ N/A.]
-- **Correct Version:** [N/A.]
-- **Explanation:** [No errors were identified after checking the chapter.]
+- **Status:**  No Error Found
+- **Original Version:**  N/A.
+- **Correct Version:** N/A.
+- **Explanation:** No errors were identified after checking the chapter.
 
-### **Chapter 4: [Feature Engineering and Encoding]**
+### **Chapter 4: Feature Engineering and Encoding**
 
-- **Status:** [ No Error Found]
-- **Original Version:** [ N/A.]
-- **Correct Version:** [N/A.]
-- **Explanation:** [No errors were identified after checking the chapter.]
+- **Status:**  No Error Found
+- **Original Version:**  N/A.
+- **Correct Version:** N/A.
+- **Explanation:** No errors were identified after checking the chapter.
 
 ### **Chapter 5: [Scaling and normalization]**
 
-- **Status:** [ No Error Found]
-- **Original Version:** [ N/A.]
-- **Correct Version:** [N/A.]
-- **Explanation:** [No errors were identified after checking the chapter.]
+- **Status:**  No Error Found
+- **Original Version:**  N/A.
+- **Correct Version:** N/A.
+- **Explanation:** No errors were identified after checking the chapter.
 
 ### Chapter 6: [Dealing with Outliers] 
 
