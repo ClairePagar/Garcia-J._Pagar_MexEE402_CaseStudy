@@ -111,10 +111,10 @@ Another thing I noticed is that the Filter Method output includes final grade wi
 
 ### **Chapter 8: Constructing a Preprocessing Pipeline**
 
-- **Status:** [Error Found / No Error Found]
-- **Original Version:** [Incorrect code or statement / N/A]
-- **Correct Version:** [Corrected code or statement / N/A]
-- **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
+- **Status:** No Error Found
+- **Original Version:**  N/A
+- **Correct Version:**  N/A
+- **Explanation:** No errors were identified after checking the chapter.
 
 ### Chapter 9: Real-World Application: Data Preprocessing
 
@@ -152,8 +152,7 @@ I used an AI tool for this chapter because I was not very familiar with what str
 I used an AI tool in this chapter mainly to help me identify and understand the error caused by cv=5 in the RFECV code. I also asked AI about the use of uppercase X and lowercase y because I initially thought that X should also be lowercase. I learned that this is a common machine learning convention where X represents the input features and y represents the target.
 
 ## Chapter 8:
-
-(To be added)
+I used an AI tool in this chapter to help me understand how ColumnTransformer works and why only the Age and Fare columns appeared in the transformed result. At first, I was unsure if the output was an error because the other columns were not included. After understanding how selected columns work in ColumnTransformer, I learned that the result was expected based on the code given in the notebook. I also used AI to help me understand the purpose of each step in the preprocessing pipeline.
 
 ## Chapter 9:
 I used an AI tool to help me identify the possible errors in my code and understand what each result represents. After that, I analyzed the results myself and used my own understanding to answer the chapter questions. This helped me understand the purpose of each preprocessing step and how the visualizations represent the data.
