@@ -46,7 +46,7 @@ In this chapter, we learned about feature engineering and its basic techniques. 
 
 In this chapter, we learned about data scaling and normalization which are used to adjust the range of feature values in a dataset. We understood that features with values can have more influence on some machine learning models so scaling helps make the data more comparable. We also learned that StandardScaler adjusts the data to have a mean of 0 and a standard deviation of 1 while MinMaxScaler transforms values into a range from 0 to 1. What surprised us was that data preprocessing involves more than correcting errors or filling in missing values. We realized that adjusting the scale of features is also an important step in preparing data, for certain machine learning models.
 
-### **Chapter 6: Dealing with Outliers **
+### Chapter 6: Dealing with Outliers 
 
 In this chapter, we found out that outliers are values in a dataset which differ significantly from all the data points. We realized that these values needed to be examined since they might influence the accuracy of the statistical results. What surprised us was that outliers could at times show hidden patterns or offer insights that would not become apparent if the data were looked at as a whole. This caused us to see that analysing data consists of more than looking at the numbers as abnormal/different values can also contribute to a better understanding and interpretation.
 
