@@ -68,26 +68,26 @@
 
 *Each chapter was checked for errors in the original notebook. Any identified error is documented below, together with its correction and explanation. If no error was found, this is also indicated.*
 
-### **Chapter 1–2–3: [Chapter Title]**
+### **Chapter 1–2–3: [Exploring and cleaning data]**
 
-- **Status:** [Error Found / No Error Found]
-- **Original Version:** [Paste the incorrect code or statement here. Write N/A if no error was found.]
-- **Correct Version:** [Provide the corrected version. Write N/A if no error was found.]
-- **Explanation:** [Explain why the original was incorrect and why the correction is appropriate. If no error was found, write: "No errors were identified after checking the chapter."]
+- **Status:** [ No Error Found]
+- **Original Version:** [ N/A.]
+- **Correct Version:** [N/A.]
+- **Explanation:** [No errors were identified after checking the chapter.]
 
-### **Chapter 4: [Chapter Title]**
+### **Chapter 4: [Feature Engineering and Encoding]**
 
-- **Status:** [Error Found / No Error Found]
-- **Original Version:** [Incorrect code or statement / N/A]
-- **Correct Version:** [Corrected code or statement / N/A]
-- **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
+- **Status:** [ No Error Found]
+- **Original Version:** [ N/A.]
+- **Correct Version:** [N/A.]
+- **Explanation:** [No errors were identified after checking the chapter.]
 
-### **Chapter 5: [Chapter Title]**
+### **Chapter 5: [Scaling and normalization]**
 
-- **Status:** [Error Found / No Error Found]
-- **Original Version:** [Incorrect code or statement / N/A]
-- **Correct Version:** [Corrected code or statement / N/A]
-- **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
+- **Status:** [ No Error Found]
+- **Original Version:** [ N/A.]
+- **Correct Version:** [N/A.]
+- **Explanation:** [No errors were identified after checking the chapter.]
 
 ### Chapter 6: [Dealing with Outliers] 
 
