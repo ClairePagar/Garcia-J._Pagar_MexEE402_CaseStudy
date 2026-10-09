@@ -60,7 +60,7 @@ In this chapter, we learned that feature selection is a step in machine learning
 
 ### **Chapter 9: Real-World Application: Data Preprocessing**
 
-*Write your reflection here.*
+In this chapter, we learned about Real-World Application: Data Preprocessing. We learned how to make raw data more organized and suitable for analysis by handling missing values transforming data and encoding features. We understood that each preprocessing technique has a purpose in improving the quality of a dataset. What surprised us the most was that even a simple dataset can contain problems that may affect the results if they are not properly addressed. We also learned that using visualizations, such, as histograms helps us understand the distribution of data and compare it before and after preprocessing. Overall this lesson taught us that analyzing data involves not examining the results but also ensuring that the information is properly prepared, accurate and reliable.
 
 ---
 
