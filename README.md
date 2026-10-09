@@ -7,7 +7,7 @@
 
 ---
 
-## **Members**
+# **Members**
 | **Name** | **Student Number** | **Section** |
 |---|---|---|
 | GARCIA, JHADE KIMBERLY A.| 23-03063 | MEXE - 4101 |
@@ -16,7 +16,7 @@
 
 ---
 
-## **Notebook Links**
+# **Notebook Links**
 
 | **Chapter** | **Assigned Member** | **Notebook Link** |
 |---|---|---|
@@ -30,7 +30,7 @@
 
 ---
 
-## **What We Learned**
+# **What We Learned**
 
 
 ### **Chapter 1–2–3: Exploring and cleaning data**
@@ -56,7 +56,7 @@ In this chapter, we learned that feature selection is a step in machine learning
 
 ### **Chapter 8: Constructing a Preprocessing Pipeline**
 
-*Write your reflection here.*
+In this chapter, we learned about Constructing a Preprocessing Pipeline. We learned how to combine different preprocessing steps, such as imputation and scaling, to prepare data for machine learning. We understood that a pipeline works like a conveyor belt, where data passes through each step in the correct order. What surprised us the most was how `ColumnTransformer` allows us to apply specific preprocessing steps to selected columns, such as Age and Fare in the Titanic dataset. We also learned that using a pipeline makes data preprocessing more organized, efficient, and consistent. Overall, this lesson taught us the importance of preparing data properly and how a preprocessing pipeline can make the process easier and more reliable.
 
 ### **Chapter 9: Real-World Application: Data Preprocessing**
 
@@ -64,7 +64,7 @@ In this chapter, we learned about Real-World Application: Data Preprocessing. We
 
 ---
 
-## **Errors We Found**
+# **Errors We Found**
 
 *Each chapter was checked for errors in the original notebook. Any identified error is documented below, together with its correction and explanation. If no error was found, this is also indicated.*
 
@@ -138,9 +138,7 @@ One error I found is in Block 16, where titanic_preprocessed[:,2] was used to pl
 
 ---
 
-## **Note on AI Tools**
-
-# AI Notes of Pagar for Chapters 6–9
+# **Note on AI Tools**
 
 ## Chapter 1–2–3: Exploring and cleaning data
 I used AI for the `head()`, `info()`, and `describe()` functions because I thought they would run as is once I typed and executed them. However, an error appeared. Since I was not familiar with these functions, I asked ChatGPT what was missing or incorrect in my input. In the end, I realized that the only thing missing was `df` before each function call.
@@ -159,7 +157,7 @@ I used an AI tool to help me identify the possible errors in my code and underst
 
 ---
 
-## **References**
+# **References**
 
 - McKinney, W. (2021). *Python for Data Analysis* (3rd ed.). O'Reilly.
 - VanderPlas, J. *Python Data Science Handbook.*
