@@ -46,11 +46,11 @@ In this chapter, we learned about feature engineering and its basic techniques. 
 
 In this chapter, we learned about data scaling and normalization which are used to adjust the range of feature values in a dataset. We understood that features with values can have more influence on some machine learning models so scaling helps make the data more comparable. We also learned that StandardScaler adjusts the data to have a mean of 0 and a standard deviation of 1 while MinMaxScaler transforms values into a range from 0 to 1. What surprised us was that data preprocessing involves more than correcting errors or filling in missing values. We realized that adjusting the scale of features is also an important step in preparing data, for certain machine learning models.
 
-### **Chapter 6: [Chapter Title]**
+### **Chapter 6: Dealing with Outliers **
 
 *Write your reflection here.*
 
-### **Chapter 7: [Chapter Title]**
+### **Chapter 7: Feature Selection**
 
 *Write your reflection here.*
 
@@ -58,7 +58,7 @@ In this chapter, we learned about data scaling and normalization which are used 
 
 *Write your reflection here.*
 
-### **Chapter 9: [Chapter Title]**
+### **Chapter 9: Real-World Application: Data Preprocessing**
 
 *Write your reflection here.*
 
@@ -89,7 +89,7 @@ In this chapter, we learned about data scaling and normalization which are used 
 - **Correct Version:** N/A.
 - **Explanation:** No errors were identified after checking the chapter.
 
-### Chapter 6: [Dealing with Outliers] 
+### Chapter 6: Dealing with Outliers 
 
 - **Status:** Error Found / No Error Found
 - **Explanation:**
@@ -97,7 +97,7 @@ One thing I noticed in this chapter is the difference between the Z-score result
 
 At first, I thought that the code should be changed from > 3 to > 2.61 so that 100 would be detected. However, based on what was taught in the notebook, 3 is the standard cutoff for the Z-score method, so I decided not to change the code. The result is possible because the dataset only has 8 values, and the extreme value of 100 affects the mean and standard deviation, which makes its Z-score lower. This also shows why the IQR method can be more useful for this small sample, because it identifies 100 as an outlier without changing the Z-score cutoff.
 
-### Chapter 7: [Feature Selection] 
+### Chapter 7: Feature Selection
 
 - **Status:** Error Found
 - **Original Version:** selector = RFECV(estimator, step=1, cv=5)
@@ -116,7 +116,7 @@ Another thing I noticed is that the Filter Method output includes final grade wi
 - **Correct Version:** [Corrected code or statement / N/A]
 - **Explanation:** [Explanation of the correction / No errors were identified after checking the chapter.]
 
-### Chapter 9: [Real-World Application: Data Preprocessing]
+### Chapter 9: Real-World Application: Data Preprocessing
 
 - **Status:** Error Found 
 - **Original Version:** # After discretization
